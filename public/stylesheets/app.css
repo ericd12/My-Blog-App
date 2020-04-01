@@ -1,0 +1,27 @@
+body{
+	background-color: #e7f7e4;
+}
+
+i.icon {
+	font-size: 2em;
+}
+
+.container.main {
+	margin-top: 10vh;
+}
+.ui.container {
+    width: 100vh;}
+
+.description {
+	padding: 12px 0;
+}
+
+#delete {
+	display: inline;
+}
+
+#buttons {
+	position: absolute;
+}
+
+
